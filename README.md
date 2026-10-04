@@ -6,7 +6,7 @@
 *I don’t just move pixels — I architect interfaces and technical foundations for future unicorns.*
 
 [![Portfolio](https://img.shields.io/badge/Behance-Portfolio-black?style=for-the-badge&logo=behance)](https://behance.net/simion)
-[![Studio](https://img.shields.io/badge/bmd.gg-Studio-black?style=for-the-badge)](https://bmd.gg)
+[![Studio](https://img.shields.io/badge/anytimeprojects.com-Studio-black?style=for-the-badge)](https://anytimeprojects.com)
 
 ---
 
