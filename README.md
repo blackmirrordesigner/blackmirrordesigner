@@ -59,6 +59,18 @@ Engineered and launched an inbound booking platform for contractors, building th
 
 <br>
 
+## 🎬 Storytelling & Motion Design
+*They asked for explainer videos, launch visuals, and motion design. Here is how I direct brand stories.*
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ylxB4HqFkl8&cc_load_policy=1&cc_lang_pref=en">
+    <img src="https://img.youtube.com/vi/ylxB4HqFkl8/maxresdefault.jpg" alt="Black Mirror Designer - My Life Story" width="100%" style="border-radius: 12px; max-width: 800px;">
+  </a>
+  <br>
+  <p><i>The origin story of bmd.gg. Click to watch (English subtitles enabled).</i></p>
+</div>
+<br>
+
 ## 🎬 Taste: The Final Quality Gate
 *Taste cannot be automated.* Whether I'm designing Dota 2-inspired level schemas, producing West Coast G-Funk and Rominimal techno under the **bmd** label, or orchestrating agents to build complex Storybook components — I am the last mile of quality. I build products that users and investors fall in love with from the first click.
 
