@@ -18,6 +18,7 @@ If you are looking for an open-source contributor with a fully green commit grap
 99% of my daily commits are hidden in private enterprise repositories. I don't build boilerplate to-do apps; I build closed-source, revenue-generating SaaS products, robust AI automations, and high-converting Fintech flows. I operate at the exact intersection of hardcore AI engineering, elite product design, and creative vision.
 
 **I don't manage engineers. I drive AI agents to ship production-ready architectures.**
+<img width="960" height="595" alt="Screenshot 2026-10-04 at 13 55 03" src="https://github.com/user-attachments/assets/b9cfab74-1f7a-4ae1-a008-b027321a438d" />
 
 <br>
 
